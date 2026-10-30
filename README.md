@@ -1,3 +1,5 @@
+<img width="1004" height="693" alt="ping network" src="https://github.com/user-attachments/assets/7190f93d-b875-488a-a86c-9219514982a6" />
+<img width="702" height="553" alt="network configuration" src="https://github.com/user-attachments/assets/a5430ec5-a772-4343-8871-642d25f1677a" />
 # networkwalks-virtual-lab
 My first internship
 # CYBERSECURITY INTERNSHIP – WEEK 1 REPORT
@@ -157,9 +159,3 @@ I look forward to building on the knowledge gained during this first week and de
 
 ---
 
-**Organization:** Networkwalks  
-**Internship:** Cybersecurity Internship  
-**Documentation:** Week 1 Technical Report  
-**Project Category:** Virtualization and Network Configuration  
-**Operating System:** Kali Linux  
-**Virtualization Platform:** Oracle VirtualBox
